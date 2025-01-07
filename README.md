@@ -16,7 +16,7 @@
 
 <hr>
 
-<h3 >a href="https://www.linkedin.com/in/sachindzz/" target="blank">
+<h3><a href="https://www.linkedin.com/in/sachindzz/" target="blank">
 🤝🏻 Connect with Me </a> </h3>
 
 <p align="left">
