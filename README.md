@@ -7,9 +7,11 @@
 
 <h3> 👨‍💻 About Me </h3>
 
-- 👨‍💻 &nbsp; Native Android Developer @DSS | Flutter | Jetpack Compose | Kotlin | Core Java | Freelancer  
+- 👨‍💻 &nbsp; Native Android and Flutter Developer | Jetpack Compose | Kotlin | Core Java | Freelancer  
 
 - 💌 How to reach me **sachinguptadz@gmail.com**
+
+- 💨 Ask me about **Flutter, Native Android Development, Kotlin, Jetpack Compose, Firebase, Payment Gateway Integration, Material Design Principles, Backend Integration**
 
 <h3>🛠️ Tech Stack</h3>
 <a href="https://flutter.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> 
@@ -22,8 +24,7 @@
 
 <hr>
 
-<h3><a href="https://www.linkedin.com/in/sachindzz/" target="blank">
-🤝🏻 Connect with Me </a> </h3>
+<h3><a href="https://www.linkedin.com/in/sachindzz/" target="blank">🤝🏻 Connect with Me</a> </h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sachindzz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sachingupta" height="30" width="40" /></a>
