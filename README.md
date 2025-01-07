@@ -7,11 +7,12 @@
 
 <h3> 👨‍💻 About Me </h3>
 
-- 👨‍💻 &nbsp; Native Android and Flutter Developer | Jetpack Compose | Kotlin | Core Java | Freelancer  
+- 👨‍💻 &nbsp; Native Android and Flutter Developer | Jetpack Compose | Kotlin | Core Java | Freelancer
+
+- 💨 Ask me about **Flutter, Native Android Development, Kotlin, Jetpack Compose, Firebase, Payment Gateway Integration, Material Design Principles, Backend Integration**
 
 - 💌 How to reach me **sachinguptadz@gmail.com**
 
-- 💨 Ask me about **Flutter, Native Android Development, Kotlin, Jetpack Compose, Firebase, Payment Gateway Integration, Material Design Principles, Backend Integration**
 
 <h3>🛠️ Tech Stack</h3>
 <a href="https://flutter.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> 
