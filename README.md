@@ -7,7 +7,7 @@
 
 <h3> 👨‍💻 About Me </h3>
 
-- 👨‍💻 &nbsp; Native Android and Flutter Developer | Freelancer
+- 👨‍💻 &nbsp; Flutter and Native Android Developer | Freelancer
 
 - 💨 Ask me about **Flutter, Native Android Development, Kotlin, Jetpack Compose, Firebase, Payment Gateway Integration, Material Design Principles, Backend Integration**
 
