@@ -18,12 +18,13 @@
 <a href="https://flutter.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> </a> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://developer.android.com/static/studio/images/android-studio-stable.svg" alt="Android" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/></a> 
 <a href="https://developer.android.com/jetpack/compose" target="_blank"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" alt="Jetpack Compose" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"></a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"></a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Firebase" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://static.wikia.nocookie.net/logopedia/images/5/52/Google_Play_Console_icon_%282023%29.svg/revision/latest/scale-to-width-down/150?cb=20241012035608" alt="Google Play Console" width="40" height="40"/> </a>
 <a href="https://mui.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png" alt="MUI" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://github.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt6DXuvit57V1DmjnlLcwst4O-sTL5D37gIQ&s" alt="GitHub" width="40" height="40"/> </a>
 
 <hr>
