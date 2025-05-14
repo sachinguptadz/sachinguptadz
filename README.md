@@ -24,7 +24,7 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://static.wikia.nocookie.net/logopedia/images/5/52/Google_Play_Console_icon_%282023%29.svg/revision/latest/scale-to-width-down/150?cb=20241012035608" alt="Google Play Console" width="40" height="40"/> </a>
 <a href="https://mui.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png" alt="MUI" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/ios_filled/512/github.png" alt="GitHub" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt6DXuvit57V1DmjnlLcwst4O-sTL5D37gIQ&s" alt="GitHub" width="40" height="40"/> </a>
 
 <hr>
 
