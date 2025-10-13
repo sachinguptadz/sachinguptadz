@@ -137,17 +137,17 @@
 <!-- ===============  DOMAIN COVERAGE (reliable badges)  =============== -->
 <h2>🧭 Domain Focus</h2>
 
-<!-- Primary domains (with % values) -->
+<!-- Each badge: change the last number (e.g., 18%25) to adjust percentage -->
 <p>
-  <img src="https://img.shields.io/badge/E--commerce-18%25-00d8ff?style=flat-square&labelColor=0b1220" alt="E-commerce 18%" />
-  <img src="https://img.shields.io/badge/Finance%2FLoans-14%25-7a5af8?style=flat-square&labelColor=0b1220" alt="Finance/Loans 14%" />
-  <img src="https://img.shields.io/badge/Trading-12%25-f87171?style=flat-square&labelColor=0b1220" alt="Trading 12%" />
-  <img src="https://img.shields.io/badge/Web3%2FBlockchain-14%25-facc15?style=flat-square&labelColor=0b1220" alt="Web3/Blockchain 14%" />
-  <img src="https://img.shields.io/badge/Devotional-8%25-8b5cf6?style=flat-square&labelColor=0b1220" alt="Devotional 8%" />
-  <img src="https://img.shields.io/badge/Tracking-10%25-34d399?style=flat-square&labelColor=0b1220" alt="Tracking 10%" />
-  <img src="https://img.shields.io/badge/Home%20Decor-10%25-6ee7b7?style=flat-square&labelColor=0b1220" alt="Home Decor 10%" />
-  <img src="https://img.shields.io/badge/Mining-7%25-f472b6?style=flat-square&labelColor=0b1220" alt="Mining 7%" />
-  <img src="https://img.shields.io/badge/Reviews%20%26%20Feedback-7%25-a5b4fc?style=flat-square&labelColor=0b1220" alt="Reviews & Feedback 7%" />
+  <img src="https://img.shields.io/badge/E--commerce-18%25-00d8ff?style=for-the-badge&logo=shopify&logoColor=white&labelColor=1a1b27" alt="E-commerce 18%" />
+  <img src="https://img.shields.io/badge/Finance%2FLoans-14%25-7a5af8?style=for-the-badge&logo=google-pay&logoColor=white&labelColor=1a1b27" alt="Finance/Loans 14%" />
+  <img src="https://img.shields.io/badge/Trading-12%25-f87171?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=1a1b27" alt="Trading 12%" />
+  <img src="https://img.shields.io/badge/Web3%2FBlockchain-14%25-facc15?style=for-the-badge&logo=ethereum&logoColor=black&labelColor=1a1b27" alt="Web3/Blockchain 14%" />
+  <img src="https://img.shields.io/badge/Devotional-8%25-8b5cf6?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=1a1b27" alt="Devotional 8%" />
+  <img src="https://img.shields.io/badge/Tracking-10%25-34d399?style=for-the-badge&logo=gps&logoColor=white&labelColor=1a1b27" alt="Tracking 10%" />
+  <img src="https://img.shields.io/badge/Home%20Decor-10%25-6ee7b7?style=for-the-badge&logo=airbnb&logoColor=black&labelColor=1a1b27" alt="Home Decor 10%" />
+  <img src="https://img.shields.io/badge/Mining-7%25-f472b6?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=1a1b27" alt="Mining 7%" />
+  <img src="https://img.shields.io/badge/Reviews%20%26%20Feedback-7%25-a5b4fc?style=for-the-badge&logo=trustpilot&logoColor=white&labelColor=1a1b27" alt="Reviews & Feedback 7%" />
 </p>
 
 
