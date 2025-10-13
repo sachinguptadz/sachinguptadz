@@ -154,18 +154,6 @@
 
 ---
 
-<h2>📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachindzz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachindzz&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachindzz&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachindzz&theme=react-dark&hide_border=true&area=true" width="98%" alt="Activity Graph"/>
-</p>
-
 
 <!-- Contributions summary -->
 <p align="center">
