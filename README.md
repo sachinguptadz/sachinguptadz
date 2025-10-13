@@ -115,19 +115,65 @@ Let’s connect and build something impactful together.
 
 ---
 
+<!-- 🔧 Tech Stack (stable CDNs, dark-mode friendly) -->
 <h2>🛠️ Tech Stack</h2>
 
 <p align="center">
-  <a href="https://flutter.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/></a>
-  <a href="https://developer.android.com" target="_blank"><img src="https://developer.android.com/static/studio/images/android-studio-stable.svg" alt="Android Studio" width="50" height="50"/></a>
-  <a href="https://kotlinlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank"><img src="https://developer.android.com/images/jetpack/compose-icon.svg" alt="Jetpack Compose" width="50" height="50"/></a>
-  <a href="https://firebase.google.com" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Firebase" width="50" height="50"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
-  <a href="https://github.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="50" height="50"/></a>
-  <a href="https://play.google.com/console" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Google_Play_Console_icon_%282023%29.svg" alt="Google Play Console" width="50" height="50"/></a>
+  <!-- Flutter -->
+  <a href="https://flutter.dev" target="_blank" title="Flutter">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48"/>
+  </a>
+  <!-- Android -->
+  <a href="https://developer.android.com" target="_blank" title="Android">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="48" height="48"/>
+  </a>
+  <!-- Kotlin -->
+  <a href="https://kotlinlang.org" target="_blank" title="Kotlin">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="48" height="48"/>
+  </a>
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank" title="Java">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
+  </a>
+  <!-- Jetpack Compose (Simple Icons) -->
+  <a href="https://developer.android.com/jetpack/compose" target="_blank" title="Jetpack Compose">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jetpackcompose.svg" alt="Jetpack Compose" width="48" height="48"/>
+  </a>
+  <!-- Material UI -->
+  <a href="https://mui.com/" target="_blank" title="Material UI">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material UI" width="48" height="48"/>
+  </a>
+  <!-- Firebase -->
+  <a href="https://firebase.google.com/" target="_blank" title="Firebase">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48"/>
+  </a>
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank" title="Postman">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="48" height="48"/>
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
+  </a>
+  <!-- GitHub (use wordmark so it shows on dark bg) -->
+  <a href="https://github.com/" target="_blank" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="56" height="56"/>
+  </a>
+  <!-- Google Play (Console icon not public — use Play logo) -->
+  <a href="https://play.google.com/console" target="_blank" title="Google Play Console">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleplay.svg" alt="Google Play" width="48" height="48"/>
+  </a>
+  <!-- OPTIONAL: Web3 -->
+  <a href="https://ethereum.org/" target="_blank" title="Ethereum / Web3">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ethereum.svg" alt="Ethereum" width="48" height="48"/>
+  </a>
+  <a href="https://metamask.io/" target="_blank" title="MetaMask">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metamask.svg" alt="MetaMask" width="48" height="48"/>
+  </a>
+  <!-- OPTIONAL: Lottie (animations) -->
+  <a href="https://lottiefiles.com/" target="_blank" title="Lottie">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/lottiefiles.svg" alt="LottieFiles" width="48" height="48"/>
+  </a>
 </p>
 
 ---
