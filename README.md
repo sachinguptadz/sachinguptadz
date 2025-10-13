@@ -23,7 +23,7 @@
 <a href="https://www.docker.com/" target="_blank"></a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Firebase" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://static.wikia.nocookie.net/logopedia/images/5/52/Google_Play_Console_icon_%282023%29.svg/revision/latest/scale-to-width-down/150?cb=20241012035608" alt="Google Play Console" width="40" height="40"/> </a>
-<a href="https://mui.com/" target="_blank"> <img src="[https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7sZB3eX_sc0Z3qY2o87uBT7EwPwtbCiZ6w&s)" alt="MUI" width="40" height="40"/> </a>
+<a href="https://mui.com/](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7sZB3eX_sc0Z3qY2o87uBT7EwPwtbCiZ6w&s)" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/material-ui-icon-512x406-fhnu85xg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7sZB3eX_sc0Z3qY2o87uBT7EwPwtbCiZ6w&s)" alt="MUI" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://github.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt6DXuvit57V1DmjnlLcwst4O-sTL5D37gIQ&s" alt="GitHub" width="40" height="40"/> </a>
 
