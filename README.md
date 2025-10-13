@@ -72,12 +72,24 @@
 
 ---
 
-<h3>🔍 Let’s Build Together</h3>
-<p>Looking for a developer who blends tech expertise with product vision and leadership? Let’s build something great together.</p>
-<p>
-  📧 <a href="mailto:sachinguptadz@gmail.com">sachinguptadz@gmail.com</a> · 
-  <a href="https://www.linkedin.com/in/sachindzz" target="_blank">LinkedIn</a> ·
-  <a href="https://www.instagram.com/sachindzz" target="_blank">Instagram</a>
+<h2 align="left">🔍 Let’s Build Together</h2>
+
+<p align="left">
+  Passionate about creating impactful digital products? <br>
+  I love collaborating on ideas that blend <strong>technology, design, and purpose</strong>. <br>
+  Whether it’s startups, open source, or creative experiments — let’s build something meaningful together 🚀
+</p>
+
+<p align="left">
+  <a href="mailto:sachinguptadz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23E8E8E8?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/sachindzz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/sachindzz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
 ---
@@ -125,17 +137,20 @@
 <!-- ===============  DOMAIN COVERAGE (reliable badges)  =============== -->
 <h2>🧭 Domain Focus</h2>
 
+<!-- Primary domains (with % values) -->
 <p>
   <img src="https://img.shields.io/badge/E--commerce-18%25-00d8ff?style=flat-square&labelColor=0b1220" alt="E-commerce 18%" />
   <img src="https://img.shields.io/badge/Finance%2FLoans-14%25-7a5af8?style=flat-square&labelColor=0b1220" alt="Finance/Loans 14%" />
   <img src="https://img.shields.io/badge/Trading-12%25-f87171?style=flat-square&labelColor=0b1220" alt="Trading 12%" />
-  <img src="https://img.shields.io/badge/Web3%2FBlockchain-14%25-facc15?style=flat-square&labelColor=0b1220" alt="Web3 14%" />
+  <img src="https://img.shields.io/badge/Web3%2FBlockchain-14%25-facc15?style=flat-square&labelColor=0b1220" alt="Web3/Blockchain 14%" />
   <img src="https://img.shields.io/badge/Devotional-8%25-8b5cf6?style=flat-square&labelColor=0b1220" alt="Devotional 8%" />
   <img src="https://img.shields.io/badge/Tracking-10%25-34d399?style=flat-square&labelColor=0b1220" alt="Tracking 10%" />
   <img src="https://img.shields.io/badge/Home%20Decor-10%25-6ee7b7?style=flat-square&labelColor=0b1220" alt="Home Decor 10%" />
   <img src="https://img.shields.io/badge/Mining-7%25-f472b6?style=flat-square&labelColor=0b1220" alt="Mining 7%" />
   <img src="https://img.shields.io/badge/Reviews%20%26%20Feedback-7%25-a5b4fc?style=flat-square&labelColor=0b1220" alt="Reviews & Feedback 7%" />
 </p>
+
+
 
 ---
 
@@ -149,4 +164,12 @@
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachindzz&theme=react-dark&hide_border=true&area=true" width="98%" alt="Activity Graph"/>
+</p>
+
+
+<!-- Contributions summary -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Lines%20of%20Code-250K%2B-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributions-20-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Team%20Mentored-10%2B-teal?style=flat-square" />
 </p>
