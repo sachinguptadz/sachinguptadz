@@ -99,9 +99,9 @@
   <a href="https://play.google.com/console" title="Google Play Console">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/googleplay.svg" alt="Google Play" height="42" />
   </a>
-  <a href="https://lottiefiles.com" title="LottieFiles">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/lottiefiles.svg" alt="LottieFiles" height="42" />
-  </a>
+  <a href="https://lottiefiles.com" title="LottieFiles" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/lottiefiles.svg" alt="LottieFiles" height="42" />
+</a>
 </p>
 
 <hr/>
