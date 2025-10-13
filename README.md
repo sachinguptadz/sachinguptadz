@@ -164,12 +164,7 @@ Let’s connect and build something impactful together.
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleplay.svg" alt="Google Play" width="48" height="48"/>
   </a>
   <!-- OPTIONAL: Web3 -->
-  <a href="https://ethereum.org/" target="_blank" title="Ethereum / Web3">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ethereum.svg" alt="Ethereum" width="48" height="48"/>
-  </a>
-  <a href="https://metamask.io/" target="_blank" title="MetaMask">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metamask.svg" alt="MetaMask" width="48" height="48"/>
-  </a>
+
   <!-- OPTIONAL: Lottie (animations) -->
   <a href="https://lottiefiles.com/" target="_blank" title="Lottie">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/lottiefiles.svg" alt="LottieFiles" width="48" height="48"/>
