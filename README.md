@@ -82,61 +82,59 @@
 
 ---
 
+<!-- ===============  TECH STACK (reliable, dark-mode safe)  =============== -->
 <h2>🛠️ Tech Stack</h2>
 
 <p align="center">
-  <a href="https://flutter.dev" target="_blank" title="Flutter">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter"/>
+  <!-- super-reliable icon sprites -->
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin,java,figma,firebase,postman,git,github&perline=9" alt="Tech stack icons" />
+  <br/>
+  <!-- extras not in skillicons -->
+  <a href="https://developer.android.com/jetpack/compose" title="Jetpack Compose">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/jetpackcompose.svg" alt="Jetpack Compose" height="42" />
   </a>
-  <a href="https://developer.android.com" target="_blank" title="Android">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" alt="Android"/>
+  <a href="https://mui.com" title="Material UI">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="MUI" height="42" />
   </a>
-  <a href="https://kotlinlang.org" target="_blank" title="Kotlin">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48" height="48" alt="Kotlin"/>
+  <a href="https://play.google.com/console" title="Google Play Console">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/googleplay.svg" alt="Google Play" height="42" />
   </a>
-  <a href="https://www.java.com" target="_blank" title="Java">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
-  </a>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank" title="Jetpack Compose">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jetpackcompose.svg" width="48" height="48" alt="Jetpack Compose"/>
-  </a>
-  <a href="https://mui.com/" target="_blank" title="Material UI">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" title="Firebase">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" title="Postman">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-  </a>
-  <a href="https://github.com/" target="_blank" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
-  </a>
-  <a href="https://play.google.com/console" target="_blank" title="Google Play Console">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/googleplay.svg" width="48" height="48" alt="Google Play"/>
-  </a>
-  <a href="https://lottiefiles.com/" target="_blank" title="LottieFiles">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/lottiefiles.svg" width="48" height="48" alt="LottieFiles"/>
+  <a href="https://lottiefiles.com" title="LottieFiles">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/lottiefiles.svg" alt="LottieFiles" height="42" />
   </a>
 </p>
 
----
+<hr/>
 
-<h2>📊 Tech Skill Radar</h2>
-<p align="center">
-  <img alt="Skill Radar"
-       src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Flutter','Android','Kotlin','Java','Firebase','UI/UX','Web3'],datasets:[{data:[95,90,85,80,85,88,70],borderColor:'%2300d8ff',backgroundColor:'rgba(0,216,255,0.2)',pointBackgroundColor:'%2300ffa8'}]},options:{plugins:{legend:{display:false}},scales:{r:{angleLines:{color:'#444'},grid:{color:'#444'},pointLabels:{color:'#a5b4fc'},suggestedMin:0,suggestedMax:100}}}}&backgroundColor=transparent&format=png&w=520&h=360" />
+<!-- ===============  SKILL BARS (charts that never break)  =============== -->
+<h2>📈 Tech Skill Levels</h2>
+
+<!-- Each bar: change the last number (e.g., 95%25) to tweak the percent -->
+<p>
+  <img src="https://img.shields.io/badge/Flutter-95%25-00d8ff?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1b27" alt="Flutter 95%" />
+  <img src="https://img.shields.io/badge/Android-90%25-3ddc84?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1b27" alt="Android 90%" />
+  <img src="https://img.shields.io/badge/Kotlin-85%25-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=1a1b27" alt="Kotlin 85%" />
+  <img src="https://img.shields.io/badge/Java-80%25-ed8b00?style=for-the-badge&logo=java&logoColor=white&labelColor=1a1b27" alt="Java 80%" />
+  <img src="https://img.shields.io/badge/Firebase-85%25-ffca28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=1a1b27" alt="Firebase 85%" />
+  <img src="https://img.shields.io/badge/UI%2FUX-88%25-7a5af8?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1b27" alt="UI/UX 88%" />
+  <img src="https://img.shields.io/badge/Web3-70%25-5b9a8b?style=for-the-badge&labelColor=1a1b27" alt="Web3 70%" />
 </p>
 
----
+<hr/>
 
+<!-- ===============  DOMAIN COVERAGE (reliable badges)  =============== -->
 <h2>🧭 Domain Focus</h2>
-<p align="center">
-  <img alt="Domain Expertise"
-       src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['E-commerce','Finance/Loans','Trading','Web3/Blockchain','Devotional','Tracking','Home Decor/Furniture','Mining','Reviews/Feedback'],datasets:[{data:[18,14,12,14,8,10,10,7,7],backgroundColor:['%2300d8ff','%237a5af8','%23f87171','%23facc15','%238b5cf6','%2334d399','%236ee7b7','%23f472b6','%23a5b4fc']}]},options:{plugins:{legend:{position:'bottom',labels:{color:'white',boxWidth:14}}},cutout:'58%'}}&backgroundColor=transparent&format=png&w=560&h=380" />
+
+<p>
+  <img src="https://img.shields.io/badge/E--commerce-18%25-00d8ff?style=flat-square&labelColor=0b1220" alt="E-commerce 18%" />
+  <img src="https://img.shields.io/badge/Finance%2FLoans-14%25-7a5af8?style=flat-square&labelColor=0b1220" alt="Finance/Loans 14%" />
+  <img src="https://img.shields.io/badge/Trading-12%25-f87171?style=flat-square&labelColor=0b1220" alt="Trading 12%" />
+  <img src="https://img.shields.io/badge/Web3%2FBlockchain-14%25-facc15?style=flat-square&labelColor=0b1220" alt="Web3 14%" />
+  <img src="https://img.shields.io/badge/Devotional-8%25-8b5cf6?style=flat-square&labelColor=0b1220" alt="Devotional 8%" />
+  <img src="https://img.shields.io/badge/Tracking-10%25-34d399?style=flat-square&labelColor=0b1220" alt="Tracking 10%" />
+  <img src="https://img.shields.io/badge/Home%20Decor-10%25-6ee7b7?style=flat-square&labelColor=0b1220" alt="Home Decor 10%" />
+  <img src="https://img.shields.io/badge/Mining-7%25-f472b6?style=flat-square&labelColor=0b1220" alt="Mining 7%" />
+  <img src="https://img.shields.io/badge/Reviews%20%26%20Feedback-7%25-a5b4fc?style=flat-square&labelColor=0b1220" alt="Reviews & Feedback 7%" />
 </p>
 
 ---
